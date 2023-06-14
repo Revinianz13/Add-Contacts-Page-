@@ -11,6 +11,9 @@
 
 
 /* This is a test for the app */
+/* And this will be pushed to git branch for testing purpose */
+/* Ensures that the branch only is commited 
+and not the main*/
 #app form div {
   margin: 1rem 0;
 }
